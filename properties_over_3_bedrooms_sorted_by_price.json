@@ -1,0 +1,1344 @@
+[{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f040"
+  },
+  "price": 11500000,
+  "bedrooms": 4,
+  "address": {
+    "street": "974575.0",
+    "city": "Dorado",
+    "state": "Puerto Rico",
+    "zip": "00646"
+  },
+  "house_size": 7000
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef79"
+  },
+  "price": 10000000,
+  "bedrooms": 6,
+  "address": {
+    "street": "1233063.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 6000
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef6a"
+  },
+  "price": 3900000,
+  "bedrooms": 6,
+  "address": {
+    "street": "269007.0",
+    "city": "Penuelas",
+    "state": "Puerto Rico",
+    "zip": "00624"
+  },
+  "house_size": 9297
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f041"
+  },
+  "price": 3500000,
+  "bedrooms": 4,
+  "address": {
+    "street": "595727.0",
+    "city": "Dorado",
+    "state": "Puerto Rico",
+    "zip": "00646"
+  },
+  "house_size": 2500
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efee"
+  },
+  "price": 1800000,
+  "bedrooms": 6,
+  "address": {
+    "street": "1902806.0",
+    "city": "Isabela",
+    "state": "Puerto Rico",
+    "zip": "00662"
+  },
+  "house_size": 10000
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef86"
+  },
+  "price": 1399000,
+  "bedrooms": 5,
+  "address": {
+    "street": "6714.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 5517
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f047"
+  },
+  "price": 1325000,
+  "bedrooms": 4,
+  "address": {
+    "street": "600545.0",
+    "city": "Dorado",
+    "state": "Puerto Rico",
+    "zip": "00646"
+  },
+  "house_size": 2500
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efd6"
+  },
+  "price": 1200000,
+  "bedrooms": 5,
+  "address": {
+    "street": "1181969.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00677"
+  },
+  "house_size": 6000
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f029"
+  },
+  "price": 1100000,
+  "bedrooms": 5,
+  "address": {
+    "street": "1120998.0",
+    "city": "Quebradillas",
+    "state": "Puerto Rico",
+    "zip": "00678"
+  },
+  "house_size": 3000
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f04b"
+  },
+  "price": 1100000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1484017.0",
+    "city": "Dorado",
+    "state": "Puerto Rico",
+    "zip": "00646"
+  },
+  "house_size": 3500
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efef"
+  },
+  "price": 975000,
+  "bedrooms": 6,
+  "address": {
+    "street": "1913925.0",
+    "city": "Isabela",
+    "state": "Puerto Rico",
+    "zip": "00662"
+  },
+  "house_size": 3739
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efd5"
+  },
+  "price": 950000,
+  "bedrooms": 9,
+  "address": {
+    "street": "1854848.0",
+    "city": "Rincon",
+    "state": "Puerto Rico",
+    "zip": "00677"
+  },
+  "house_size": 3852
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1eff0"
+  },
+  "price": 950000,
+  "bedrooms": 4,
+  "address": {
+    "street": "6927.0",
+    "city": "Rincon",
+    "state": "Puerto Rico",
+    "zip": "00677"
+  },
+  "house_size": 2450
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f04d"
+  },
+  "price": 895000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1947221.0",
+    "city": "Dorado",
+    "state": "Puerto Rico",
+    "zip": "00646"
+  },
+  "house_size": 2490
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef9b"
+  },
+  "price": 850000,
+  "bedrooms": 5,
+  "address": {
+    "street": "792809.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 8460
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efd3"
+  },
+  "price": 750000,
+  "bedrooms": 12,
+  "address": {
+    "street": "1855338.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": 4800
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef68"
+  },
+  "price": 650000,
+  "bedrooms": 9,
+  "address": {
+    "street": "1902746.0",
+    "city": "Mayaguez",
+    "state": "Puerto Rico",
+    "zip": "00680"
+  },
+  "house_size": 3709
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efb4"
+  },
+  "price": 649900,
+  "bedrooms": 8,
+  "address": {
+    "street": "1850840.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 3700
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef4f"
+  },
+  "price": 649000,
+  "bedrooms": 5,
+  "address": {
+    "street": "1879215.0",
+    "city": "Ponce",
+    "state": "Puerto Rico",
+    "zip": "00731"
+  },
+  "house_size": 2677
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efb3"
+  },
+  "price": 620000,
+  "bedrooms": 5,
+  "address": {
+    "street": "119241.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 3267
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef87"
+  },
+  "price": 600000,
+  "bedrooms": 6,
+  "address": {
+    "street": "1946165.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 2400
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef69"
+  },
+  "price": 555000,
+  "bedrooms": 5,
+  "address": {
+    "street": "480944.0",
+    "city": "Ponce",
+    "state": "Puerto Rico",
+    "zip": "00730"
+  },
+  "house_size": 3100
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef76"
+  },
+  "price": 500000,
+  "bedrooms": 5,
+  "address": {
+    "street": "10282.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 2962
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efa2"
+  },
+  "price": 500000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1902866.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 2950
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef9d"
+  },
+  "price": 499000,
+  "bedrooms": 4,
+  "address": {
+    "street": "117065.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 3734
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef61"
+  },
+  "price": 495000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1962660.0",
+    "city": "Santa Isabel",
+    "state": "Puerto Rico",
+    "zip": "00757"
+  },
+  "house_size": 2886
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efd7"
+  },
+  "price": 495000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1446813.0",
+    "city": "Lajas",
+    "state": "Puerto Rico",
+    "zip": "00667"
+  },
+  "house_size": 6500
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efed"
+  },
+  "price": 485000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1446871.0",
+    "city": "Isabela",
+    "state": "Puerto Rico",
+    "zip": "00662"
+  },
+  "house_size": 3066
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef65"
+  },
+  "price": 475000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1940314.0",
+    "city": "San Sebastian",
+    "state": "Puerto Rico",
+    "zip": "00685"
+  },
+  "house_size": 3690
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f056"
+  },
+  "price": 460000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1450082.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00622"
+  },
+  "house_size": 3328
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efec"
+  },
+  "price": 450000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1793737.0",
+    "city": "Isabela",
+    "state": "Puerto Rico",
+    "zip": "00662"
+  },
+  "house_size": 4000
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef5b"
+  },
+  "price": 425000,
+  "bedrooms": 4,
+  "address": {
+    "street": "955013.0",
+    "city": "Ponce",
+    "state": "Puerto Rico",
+    "zip": "00730"
+  },
+  "house_size": 3000
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efa5"
+  },
+  "price": 425000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1946165.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 3468
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f02a"
+  },
+  "price": 418000,
+  "bedrooms": 5,
+  "address": {
+    "street": "2402.0",
+    "city": "Hatillo",
+    "state": "Puerto Rico",
+    "zip": "00659"
+  },
+  "house_size": 3650
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef81"
+  },
+  "price": 375000,
+  "bedrooms": 7,
+  "address": {
+    "street": "166250.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 2775
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f027"
+  },
+  "price": 375000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1854739.0",
+    "city": "Barceloneta",
+    "state": "Puerto Rico",
+    "zip": "00617"
+  },
+  "house_size": 2961
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f053"
+  },
+  "price": 365000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1139967.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00622"
+  },
+  "house_size": 2800
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f02b"
+  },
+  "price": 365000,
+  "bedrooms": 5,
+  "address": {
+    "street": "1902830.0",
+    "city": "Morovis",
+    "state": "Puerto Rico",
+    "zip": "00687"
+  },
+  "house_size": 2366
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f003"
+  },
+  "price": 360000,
+  "bedrooms": 5,
+  "address": {
+    "street": "1567105.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 6000
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef77"
+  },
+  "price": 339000,
+  "bedrooms": 4,
+  "address": {
+    "street": "268641.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 1955
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f05b"
+  },
+  "price": 325000,
+  "bedrooms": 5,
+  "address": {
+    "street": "1879192.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": 4000
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef4a"
+  },
+  "price": 300000,
+  "bedrooms": 5,
+  "address": {
+    "street": "1946226.0",
+    "city": "Las Marias",
+    "state": "Puerto Rico",
+    "zip": "00670"
+  },
+  "house_size": 5403
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efa6"
+  },
+  "price": 300000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1258490.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 547
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f026"
+  },
+  "price": 290000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1868675.0",
+    "city": "Manati",
+    "state": "Puerto Rico",
+    "zip": "00674"
+  },
+  "house_size": 2236
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f017"
+  },
+  "price": 289000,
+  "bedrooms": 5,
+  "address": {
+    "street": "1856979.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 2832
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efa0"
+  },
+  "price": 260000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1136713.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 1760
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef73"
+  },
+  "price": 252000,
+  "bedrooms": 6,
+  "address": {
+    "street": "1902727.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 2500
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efcf"
+  },
+  "price": 250000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1071244.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": 3052
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f023"
+  },
+  "price": 245000,
+  "bedrooms": 4,
+  "address": {
+    "street": "867517.0",
+    "city": "Vega Baja",
+    "state": "Puerto Rico",
+    "zip": "00693"
+  },
+  "house_size": 2038
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f008"
+  },
+  "price": 239000,
+  "bedrooms": 7,
+  "address": {
+    "street": "1551669.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 2715
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef51"
+  },
+  "price": 235000,
+  "bedrooms": 4,
+  "address": {
+    "street": "13687.0",
+    "city": "Mayaguez",
+    "state": "Puerto Rico",
+    "zip": "00680"
+  },
+  "house_size": 3450
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efaa"
+  },
+  "price": 234900,
+  "bedrooms": 6,
+  "address": {
+    "street": "1850808.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 2035
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef9f"
+  },
+  "price": 225900,
+  "bedrooms": 6,
+  "address": {
+    "street": "1946283.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 2618
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef60"
+  },
+  "price": 225000,
+  "bedrooms": 5,
+  "address": {
+    "street": "1987398.0",
+    "city": "Ponce",
+    "state": "Puerto Rico",
+    "zip": "00717"
+  },
+  "house_size": 1600
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1eff9"
+  },
+  "price": 220000,
+  "bedrooms": 6,
+  "address": {
+    "street": "1856978.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 2900
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efcb"
+  },
+  "price": 215000,
+  "bedrooms": 7,
+  "address": {
+    "street": "1480314.0",
+    "city": "Mayaguez",
+    "state": "Puerto Rico",
+    "zip": "00680"
+  },
+  "house_size": 2200
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f01c"
+  },
+  "price": 200000,
+  "bedrooms": 6,
+  "address": {
+    "street": "1855347.0",
+    "city": "Hatillo",
+    "state": "Puerto Rico",
+    "zip": "00659"
+  },
+  "house_size": 3400
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1eff5"
+  },
+  "price": 200000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1946165.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 3413
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f019"
+  },
+  "price": 197000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1856909.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 1500
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efd1"
+  },
+  "price": 190000,
+  "bedrooms": 5,
+  "address": {
+    "street": "6946.0",
+    "city": "Mayaguez",
+    "state": "Puerto Rico",
+    "zip": "00680"
+  },
+  "house_size": 1600
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef5f"
+  },
+  "price": 189000,
+  "bedrooms": 6,
+  "address": {
+    "street": "1902849.0",
+    "city": "Villalba",
+    "state": "Puerto Rico",
+    "zip": "00766"
+  },
+  "house_size": 1943
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f01b"
+  },
+  "price": 185000,
+  "bedrooms": 5,
+  "address": {
+    "street": "869853.0",
+    "city": "Manati",
+    "state": "Puerto Rico",
+    "zip": "00674"
+  },
+  "house_size": 1700
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f000"
+  },
+  "price": 179000,
+  "bedrooms": 5,
+  "address": {
+    "street": "1855451.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 2200
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef46"
+  },
+  "price": 179000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1850806.0",
+    "city": "San Sebastian",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 2520
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f045"
+  },
+  "price": 172000,
+  "bedrooms": 6,
+  "address": {
+    "street": "1940307.0",
+    "city": "Naranjito",
+    "state": "Puerto Rico",
+    "zip": "00719"
+  },
+  "house_size": 1880
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f00c"
+  },
+  "price": 168000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1902837.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 1600
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef56"
+  },
+  "price": 165000,
+  "bedrooms": 6,
+  "address": {
+    "street": "117231.0",
+    "city": "Moca",
+    "state": "Puerto Rico",
+    "zip": "00676"
+  },
+  "house_size": 3000
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efe9"
+  },
+  "price": 165000,
+  "bedrooms": 5,
+  "address": {
+    "street": "560745.0",
+    "city": "Anasco",
+    "state": "Puerto Rico",
+    "zip": "00610"
+  },
+  "house_size": 2327
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f024"
+  },
+  "price": 161000,
+  "bedrooms": 4,
+  "address": {
+    "street": "435967.0",
+    "city": "Caguas",
+    "state": "Puerto Rico",
+    "zip": "00727"
+  },
+  "house_size": 1100
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f03e"
+  },
+  "price": 157500,
+  "bedrooms": 4,
+  "address": {
+    "street": "377951.0",
+    "city": "Toa Alta",
+    "state": "Puerto Rico",
+    "zip": "00953"
+  },
+  "house_size": 1650
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1effc"
+  },
+  "price": 150000,
+  "bedrooms": 7,
+  "address": {
+    "street": "1946210.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 800
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1eff7"
+  },
+  "price": 148000,
+  "bedrooms": 5,
+  "address": {
+    "street": "1902831.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 2058
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef44"
+  },
+  "price": 145000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1947675.0",
+    "city": "Ponce",
+    "state": "Puerto Rico",
+    "zip": "00731"
+  },
+  "house_size": 1800
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f00f"
+  },
+  "price": 140000,
+  "bedrooms": 8,
+  "address": {
+    "street": "918510.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 1500
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef54"
+  },
+  "price": 140000,
+  "bedrooms": 6,
+  "address": {
+    "street": "6710.0",
+    "city": "Anasco",
+    "state": "Puerto Rico",
+    "zip": "00610"
+  },
+  "house_size": 1230
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef6f"
+  },
+  "price": 139500,
+  "bedrooms": 4,
+  "address": {
+    "street": "397960.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 3000
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f012"
+  },
+  "price": 135000,
+  "bedrooms": 5,
+  "address": {
+    "street": "1437193.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 1500
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f060"
+  },
+  "price": 135000,
+  "bedrooms": 4,
+  "address": {
+    "street": "198778.0",
+    "city": "Hormigueros",
+    "state": "Puerto Rico",
+    "zip": "00660"
+  },
+  "house_size": 1163
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efc6"
+  },
+  "price": 125000,
+  "bedrooms": 8,
+  "address": {
+    "street": "436480.0",
+    "city": "Hormigueros",
+    "state": "Puerto Rico",
+    "zip": "00660"
+  },
+  "house_size": 2000
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f069"
+  },
+  "price": 122000,
+  "bedrooms": 4,
+  "address": {
+    "street": "521774.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": 1400
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef67"
+  },
+  "price": 120000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1667467.0",
+    "city": "Las Marias",
+    "state": "Puerto Rico",
+    "zip": "00670"
+  },
+  "house_size": 1800
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1effb"
+  },
+  "price": 110000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1856516.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 1000
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f03b"
+  },
+  "price": 100000,
+  "bedrooms": 5,
+  "address": {
+    "street": "1547175.0",
+    "city": "Vega Alta",
+    "state": "Puerto Rico",
+    "zip": "00692"
+  },
+  "house_size": 1400
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef9a"
+  },
+  "price": 99000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1499349.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 1408
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efc0"
+  },
+  "price": 98000,
+  "bedrooms": 5,
+  "address": {
+    "street": "1850836.0",
+    "city": "Maricao",
+    "state": "Puerto Rico",
+    "zip": "00606"
+  },
+  "house_size": 2156
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f02f"
+  },
+  "price": 95000,
+  "bedrooms": 5,
+  "address": {
+    "street": "151105.0",
+    "city": "Quebradillas",
+    "state": "Puerto Rico",
+    "zip": "95000"
+  },
+  "house_size": 1757
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef5c"
+  },
+  "price": 93000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1854860.0",
+    "city": "Guayanilla",
+    "state": "Puerto Rico",
+    "zip": "00656"
+  },
+  "house_size": 1300
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f03c"
+  },
+  "price": 80000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1584559.0",
+    "city": "Corozal",
+    "state": "Puerto Rico",
+    "zip": "00783"
+  },
+  "house_size": 1500
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef42"
+  },
+  "price": 80000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1902874.0",
+    "city": "Adjuntas",
+    "state": "Puerto Rico",
+    "zip": "00601"
+  },
+  "house_size": 1527
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1effe"
+  },
+  "price": 79000,
+  "bedrooms": 6,
+  "address": {
+    "street": "1855343.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 2472
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef4e"
+  },
+  "price": 79000,
+  "bedrooms": 5,
+  "address": {
+    "street": "1761024.0",
+    "city": "Utuado",
+    "state": "Puerto Rico",
+    "zip": "00641"
+  },
+  "house_size": 1620
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef5d"
+  },
+  "price": 75000,
+  "bedrooms": 4,
+  "address": {
+    "street": "511838.0",
+    "city": "Manati",
+    "state": "Puerto Rico",
+    "zip": "00676"
+  },
+  "house_size": 1080
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efc2"
+  },
+  "price": 75000,
+  "bedrooms": 5,
+  "address": {
+    "street": "1856895.0",
+    "city": "Maricao",
+    "state": "Puerto Rico",
+    "zip": "00606"
+  },
+  "house_size": 1563
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f046"
+  },
+  "price": 65000,
+  "bedrooms": 6,
+  "address": {
+    "street": "397849.0",
+    "city": "Toa Alta",
+    "state": "Puerto Rico",
+    "zip": "00953"
+  },
+  "house_size": 2600
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f059"
+  },
+  "price": 63000,
+  "bedrooms": 4,
+  "address": {
+    "street": "1888053.0",
+    "city": "Hormigueros",
+    "state": "Puerto Rico",
+    "zip": "00660"
+  },
+  "house_size": 1233
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efc1"
+  },
+  "price": 55000,
+  "bedrooms": 5,
+  "address": {
+    "street": "1857017.0",
+    "city": "Maricao",
+    "state": "Puerto Rico",
+    "zip": "00606"
+  },
+  "house_size": 2156
+}]

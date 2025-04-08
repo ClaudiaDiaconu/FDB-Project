@@ -1,0 +1,258 @@
+[{
+  "max_price": 3900000,
+  "min_price": 3900000,
+  "avg_price": 3900000,
+  "city": "Penuelas"
+},
+{
+  "max_price": 11500000,
+  "min_price": 55000,
+  "avg_price": 2165323.076923077,
+  "city": "Dorado"
+},
+{
+  "max_price": 8000000,
+  "min_price": 89000,
+  "avg_price": 1752571.4285714286,
+  "city": "Isabela"
+},
+{
+  "max_price": 3000000,
+  "min_price": 95000,
+  "avg_price": 1398333.3333333333,
+  "city": "Quebradillas"
+},
+{
+  "max_price": 3250000,
+  "min_price": 329000,
+  "avg_price": 1165600,
+  "city": "Rincon"
+},
+{
+  "max_price": 495000,
+  "min_price": 495000,
+  "avg_price": 495000,
+  "city": "Santa Isabel"
+},
+{
+  "max_price": 10000000,
+  "min_price": 35000,
+  "avg_price": 494620.71428571426,
+  "city": "Aguada"
+},
+{
+  "max_price": 635000,
+  "min_price": 100000,
+  "avg_price": 463750,
+  "city": "Vega Alta"
+},
+{
+  "max_price": 495000,
+  "min_price": 275000,
+  "avg_price": 385000,
+  "city": "Lajas"
+},
+{
+  "max_price": 575000,
+  "min_price": 179000,
+  "avg_price": 371000,
+  "city": "San Sebastian"
+},
+{
+  "max_price": 835000,
+  "min_price": 63000,
+  "avg_price": 309800,
+  "city": "Hormigueros"
+},
+{
+  "max_price": 400000,
+  "min_price": 165000,
+  "avg_price": 290000,
+  "city": "Moca"
+},
+{
+  "max_price": 365000,
+  "min_price": 210000,
+  "avg_price": 287500,
+  "city": "Morovis"
+},
+{
+  "max_price": 1400000,
+  "min_price": 25000,
+  "avg_price": 281266.6666666667,
+  "city": "Cabo Rojo"
+},
+{
+  "max_price": 649000,
+  "min_price": 71600,
+  "avg_price": 261060,
+  "city": "Ponce"
+},
+{
+  "max_price": 1000000,
+  "min_price": 28000,
+  "avg_price": 256590.76923076922,
+  "city": "Aguadilla"
+},
+{
+  "max_price": 418000,
+  "min_price": 55000,
+  "avg_price": 244166.66666666666,
+  "city": "Hatillo"
+},
+{
+  "max_price": 300000,
+  "min_price": 120000,
+  "avg_price": 210000,
+  "city": "Las Marias"
+},
+{
+  "max_price": 245000,
+  "min_price": 134000,
+  "avg_price": 201333.33333333334,
+  "city": "Vega Baja"
+},
+{
+  "max_price": 189000,
+  "min_price": 189000,
+  "avg_price": 189000,
+  "city": "Villalba"
+},
+{
+  "max_price": 189000,
+  "min_price": 189000,
+  "avg_price": 189000,
+  "city": "Coamo"
+},
+{
+  "max_price": 499000,
+  "min_price": 79000,
+  "avg_price": 182700,
+  "city": "Anasco"
+},
+{
+  "max_price": 425000,
+  "min_price": 42900,
+  "avg_price": 177600,
+  "city": "Camuy"
+},
+{
+  "max_price": 499900,
+  "min_price": 50000,
+  "avg_price": 172580,
+  "city": "Yauco"
+},
+{
+  "max_price": 1200000,
+  "min_price": 29900,
+  "avg_price": 165485,
+  "city": "Arecibo"
+},
+{
+  "max_price": 161000,
+  "min_price": 161000,
+  "avg_price": 161000,
+  "city": "Caguas"
+},
+{
+  "max_price": 650000,
+  "min_price": 46900,
+  "avg_price": 158593.33333333334,
+  "city": "Mayaguez"
+},
+{
+  "max_price": 155000,
+  "min_price": 155000,
+  "avg_price": 155000,
+  "city": "Lares"
+},
+{
+  "max_price": 290000,
+  "min_price": 75000,
+  "avg_price": 153720,
+  "city": "Manati"
+},
+{
+  "max_price": 205000,
+  "min_price": 95000,
+  "avg_price": 150000,
+  "city": "Guanica"
+},
+{
+  "max_price": 375000,
+  "min_price": 49900,
+  "avg_price": 137337.5,
+  "city": "Barceloneta"
+},
+{
+  "max_price": 195000,
+  "min_price": 79000,
+  "avg_price": 137000,
+  "city": "Utuado"
+},
+{
+  "max_price": 155000,
+  "min_price": 70000,
+  "avg_price": 125000,
+  "city": "San German"
+},
+{
+  "max_price": 172000,
+  "min_price": 55000,
+  "avg_price": 113500,
+  "city": "Naranjito"
+},
+{
+  "max_price": 270000,
+  "min_price": 25000,
+  "avg_price": 112500,
+  "city": "Toa Alta"
+},
+{
+  "max_price": 150000,
+  "min_price": 67000,
+  "avg_price": 108500,
+  "city": "Juana Diaz"
+},
+{
+  "max_price": 160000,
+  "min_price": 55000,
+  "avg_price": 93600,
+  "city": "Maricao"
+},
+{
+  "max_price": 93000,
+  "min_price": 93000,
+  "avg_price": 93000,
+  "city": "Guayanilla"
+},
+{
+  "max_price": 105000,
+  "min_price": 80000,
+  "avg_price": 92500,
+  "city": "Adjuntas"
+},
+{
+  "max_price": 80000,
+  "min_price": 80000,
+  "avg_price": 80000,
+  "city": "Corozal"
+},
+{
+  "max_price": 75000,
+  "min_price": 75000,
+  "avg_price": 75000,
+  "city": "Boqueron"
+},
+{
+  "max_price": 63800,
+  "min_price": 63800,
+  "avg_price": 63800,
+  "city": "Toa Baja"
+},
+{
+  "max_price": 50000,
+  "min_price": 50000,
+  "avg_price": 50000,
+  "city": "Ciales"
+}]

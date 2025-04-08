@@ -1,0 +1,55 @@
+[{
+  "average_price": 375043.875,
+  "total_properties": 80,
+  "bedrooms": null
+},
+{
+  "average_price": 155485.7142857143,
+  "total_properties": 7,
+  "bedrooms": 1
+},
+{
+  "average_price": 186188.23529411765,
+  "total_properties": 17,
+  "bedrooms": 2
+},
+{
+  "average_price": 271017.8947368421,
+  "total_properties": 95,
+  "bedrooms": 3
+},
+{
+  "average_price": 643841.304347826,
+  "total_properties": 46,
+  "bedrooms": 4
+},
+{
+  "average_price": 394777.77777777775,
+  "total_properties": 27,
+  "bedrooms": 5
+},
+{
+  "average_price": 1134282.3529411764,
+  "total_properties": 17,
+  "bedrooms": 6
+},
+{
+  "average_price": 244750,
+  "total_properties": 4,
+  "bedrooms": 7
+},
+{
+  "average_price": 353475,
+  "total_properties": 4,
+  "bedrooms": 8
+},
+{
+  "average_price": 800000,
+  "total_properties": 2,
+  "bedrooms": 9
+},
+{
+  "average_price": 750000,
+  "total_properties": 1,
+  "bedrooms": 12
+}]

@@ -1,0 +1,744 @@
+[{
+  "average_price": 105000,
+  "total_properties": 1,
+  "city": "Adjuntas",
+  "bedrooms": 3
+},
+{
+  "average_price": 80000,
+  "total_properties": 1,
+  "city": "Adjuntas",
+  "bedrooms": 4
+},
+{
+  "average_price": 130433.5,
+  "total_properties": 20,
+  "city": "Aguada",
+  "bedrooms": null
+},
+{
+  "average_price": 149900,
+  "total_properties": 1,
+  "city": "Aguada",
+  "bedrooms": 1
+},
+{
+  "average_price": 154750,
+  "total_properties": 4,
+  "city": "Aguada",
+  "bedrooms": 2
+},
+{
+  "average_price": 324000,
+  "total_properties": 8,
+  "city": "Aguada",
+  "bedrooms": 3
+},
+{
+  "average_price": 239250,
+  "total_properties": 2,
+  "city": "Aguada",
+  "bedrooms": 4
+},
+{
+  "average_price": 1033000,
+  "total_properties": 3,
+  "city": "Aguada",
+  "bedrooms": 5
+},
+{
+  "average_price": 3617333.3333333335,
+  "total_properties": 3,
+  "city": "Aguada",
+  "bedrooms": 6
+},
+{
+  "average_price": 375000,
+  "total_properties": 1,
+  "city": "Aguada",
+  "bedrooms": 7
+},
+{
+  "average_price": 178767,
+  "total_properties": 20,
+  "city": "Aguadilla",
+  "bedrooms": null
+},
+{
+  "average_price": 221000,
+  "total_properties": 8,
+  "city": "Aguadilla",
+  "bedrooms": 3
+},
+{
+  "average_price": 347166.6666666667,
+  "total_properties": 6,
+  "city": "Aguadilla",
+  "bedrooms": 4
+},
+{
+  "average_price": 735000,
+  "total_properties": 2,
+  "city": "Aguadilla",
+  "bedrooms": 5
+},
+{
+  "average_price": 230400,
+  "total_properties": 2,
+  "city": "Aguadilla",
+  "bedrooms": 6
+},
+{
+  "average_price": 649900,
+  "total_properties": 1,
+  "city": "Aguadilla",
+  "bedrooms": 8
+},
+{
+  "average_price": 109500,
+  "total_properties": 2,
+  "city": "Anasco",
+  "bedrooms": null
+},
+{
+  "average_price": 106000,
+  "total_properties": 1,
+  "city": "Anasco",
+  "bedrooms": 2
+},
+{
+  "average_price": 149900,
+  "total_properties": 1,
+  "city": "Anasco",
+  "bedrooms": 3
+},
+{
+  "average_price": 165000,
+  "total_properties": 1,
+  "city": "Anasco",
+  "bedrooms": 5
+},
+{
+  "average_price": 140000,
+  "total_properties": 1,
+  "city": "Anasco",
+  "bedrooms": 6
+},
+{
+  "average_price": 499000,
+  "total_properties": 1,
+  "city": "Anasco",
+  "bedrooms": 8
+},
+{
+  "average_price": 234814.2857142857,
+  "total_properties": 7,
+  "city": "Arecibo",
+  "bedrooms": null
+},
+{
+  "average_price": 257250,
+  "total_properties": 2,
+  "city": "Arecibo",
+  "bedrooms": 1
+},
+{
+  "average_price": 70000,
+  "total_properties": 1,
+  "city": "Arecibo",
+  "bedrooms": 2
+},
+{
+  "average_price": 115885.71428571429,
+  "total_properties": 14,
+  "city": "Arecibo",
+  "bedrooms": 3
+},
+{
+  "average_price": 138300,
+  "total_properties": 6,
+  "city": "Arecibo",
+  "bedrooms": 4
+},
+{
+  "average_price": 222200,
+  "total_properties": 5,
+  "city": "Arecibo",
+  "bedrooms": 5
+},
+{
+  "average_price": 149500,
+  "total_properties": 2,
+  "city": "Arecibo",
+  "bedrooms": 6
+},
+{
+  "average_price": 194500,
+  "total_properties": 2,
+  "city": "Arecibo",
+  "bedrooms": 7
+},
+{
+  "average_price": 140000,
+  "total_properties": 1,
+  "city": "Arecibo",
+  "bedrooms": 8
+},
+{
+  "average_price": 90000,
+  "total_properties": 1,
+  "city": "Barceloneta",
+  "bedrooms": 2
+},
+{
+  "average_price": 105616.66666666667,
+  "total_properties": 6,
+  "city": "Barceloneta",
+  "bedrooms": 3
+},
+{
+  "average_price": 375000,
+  "total_properties": 1,
+  "city": "Barceloneta",
+  "bedrooms": 4
+},
+{
+  "average_price": 75000,
+  "total_properties": 1,
+  "city": "Boqueron",
+  "bedrooms": null
+},
+{
+  "average_price": 341500,
+  "total_properties": 12,
+  "city": "Cabo Rojo",
+  "bedrooms": null
+},
+{
+  "average_price": 61000,
+  "total_properties": 2,
+  "city": "Cabo Rojo",
+  "bedrooms": 1
+},
+{
+  "average_price": 337000,
+  "total_properties": 2,
+  "city": "Cabo Rojo",
+  "bedrooms": 2
+},
+{
+  "average_price": 192345.45454545456,
+  "total_properties": 11,
+  "city": "Cabo Rojo",
+  "bedrooms": 3
+},
+{
+  "average_price": 299250,
+  "total_properties": 4,
+  "city": "Cabo Rojo",
+  "bedrooms": 4
+},
+{
+  "average_price": 325000,
+  "total_properties": 1,
+  "city": "Cabo Rojo",
+  "bedrooms": 5
+},
+{
+  "average_price": 750000,
+  "total_properties": 1,
+  "city": "Cabo Rojo",
+  "bedrooms": 12
+},
+{
+  "average_price": 161000,
+  "total_properties": 1,
+  "city": "Caguas",
+  "bedrooms": 4
+},
+{
+  "average_price": 53900,
+  "total_properties": 2,
+  "city": "Camuy",
+  "bedrooms": null
+},
+{
+  "average_price": 425000,
+  "total_properties": 1,
+  "city": "Camuy",
+  "bedrooms": 3
+},
+{
+  "average_price": 50000,
+  "total_properties": 1,
+  "city": "Ciales",
+  "bedrooms": 3
+},
+{
+  "average_price": 189000,
+  "total_properties": 1,
+  "city": "Coamo",
+  "bedrooms": 3
+},
+{
+  "average_price": 80000,
+  "total_properties": 1,
+  "city": "Corozal",
+  "bedrooms": 4
+},
+{
+  "average_price": 413066.6666666667,
+  "total_properties": 3,
+  "city": "Dorado",
+  "bedrooms": 2
+},
+{
+  "average_price": 1718000,
+  "total_properties": 5,
+  "city": "Dorado",
+  "bedrooms": 3
+},
+{
+  "average_price": 3664000,
+  "total_properties": 5,
+  "city": "Dorado",
+  "bedrooms": 4
+},
+{
+  "average_price": 95000,
+  "total_properties": 1,
+  "city": "Guanica",
+  "bedrooms": 2
+},
+{
+  "average_price": 205000,
+  "total_properties": 1,
+  "city": "Guanica",
+  "bedrooms": 3
+},
+{
+  "average_price": 93000,
+  "total_properties": 1,
+  "city": "Guayanilla",
+  "bedrooms": 4
+},
+{
+  "average_price": 211750,
+  "total_properties": 4,
+  "city": "Hatillo",
+  "bedrooms": null
+},
+{
+  "average_price": 418000,
+  "total_properties": 1,
+  "city": "Hatillo",
+  "bedrooms": 5
+},
+{
+  "average_price": 200000,
+  "total_properties": 1,
+  "city": "Hatillo",
+  "bedrooms": 6
+},
+{
+  "average_price": 613000,
+  "total_properties": 2,
+  "city": "Hormigueros",
+  "bedrooms": null
+},
+{
+  "average_price": 99000,
+  "total_properties": 2,
+  "city": "Hormigueros",
+  "bedrooms": 4
+},
+{
+  "average_price": 125000,
+  "total_properties": 1,
+  "city": "Hormigueros",
+  "bedrooms": 8
+},
+{
+  "average_price": 8000000,
+  "total_properties": 1,
+  "city": "Isabela",
+  "bedrooms": null
+},
+{
+  "average_price": 279000,
+  "total_properties": 2,
+  "city": "Isabela",
+  "bedrooms": 3
+},
+{
+  "average_price": 467500,
+  "total_properties": 2,
+  "city": "Isabela",
+  "bedrooms": 4
+},
+{
+  "average_price": 1387500,
+  "total_properties": 2,
+  "city": "Isabela",
+  "bedrooms": 6
+},
+{
+  "average_price": 67000,
+  "total_properties": 1,
+  "city": "Juana Diaz",
+  "bedrooms": 2
+},
+{
+  "average_price": 150000,
+  "total_properties": 1,
+  "city": "Juana Diaz",
+  "bedrooms": 3
+},
+{
+  "average_price": 275000,
+  "total_properties": 1,
+  "city": "Lajas",
+  "bedrooms": 3
+},
+{
+  "average_price": 495000,
+  "total_properties": 1,
+  "city": "Lajas",
+  "bedrooms": 4
+},
+{
+  "average_price": 155000,
+  "total_properties": 1,
+  "city": "Lares",
+  "bedrooms": 3
+},
+{
+  "average_price": 120000,
+  "total_properties": 1,
+  "city": "Las Marias",
+  "bedrooms": 4
+},
+{
+  "average_price": 300000,
+  "total_properties": 1,
+  "city": "Las Marias",
+  "bedrooms": 5
+},
+{
+  "average_price": 109300,
+  "total_properties": 2,
+  "city": "Manati",
+  "bedrooms": 3
+},
+{
+  "average_price": 182500,
+  "total_properties": 2,
+  "city": "Manati",
+  "bedrooms": 4
+},
+{
+  "average_price": 185000,
+  "total_properties": 1,
+  "city": "Manati",
+  "bedrooms": 5
+},
+{
+  "average_price": 160000,
+  "total_properties": 1,
+  "city": "Maricao",
+  "bedrooms": null
+},
+{
+  "average_price": 80000,
+  "total_properties": 1,
+  "city": "Maricao",
+  "bedrooms": 3
+},
+{
+  "average_price": 76000,
+  "total_properties": 3,
+  "city": "Maricao",
+  "bedrooms": 5
+},
+{
+  "average_price": 142000,
+  "total_properties": 2,
+  "city": "Mayaguez",
+  "bedrooms": null
+},
+{
+  "average_price": 82000,
+  "total_properties": 1,
+  "city": "Mayaguez",
+  "bedrooms": 1
+},
+{
+  "average_price": 93985.71428571429,
+  "total_properties": 7,
+  "city": "Mayaguez",
+  "bedrooms": 3
+},
+{
+  "average_price": 235000,
+  "total_properties": 1,
+  "city": "Mayaguez",
+  "bedrooms": 4
+},
+{
+  "average_price": 190000,
+  "total_properties": 1,
+  "city": "Mayaguez",
+  "bedrooms": 5
+},
+{
+  "average_price": 65000,
+  "total_properties": 1,
+  "city": "Mayaguez",
+  "bedrooms": 6
+},
+{
+  "average_price": 215000,
+  "total_properties": 1,
+  "city": "Mayaguez",
+  "bedrooms": 7
+},
+{
+  "average_price": 650000,
+  "total_properties": 1,
+  "city": "Mayaguez",
+  "bedrooms": 9
+},
+{
+  "average_price": 400000,
+  "total_properties": 1,
+  "city": "Moca",
+  "bedrooms": null
+},
+{
+  "average_price": 305000,
+  "total_properties": 1,
+  "city": "Moca",
+  "bedrooms": 3
+},
+{
+  "average_price": 165000,
+  "total_properties": 1,
+  "city": "Moca",
+  "bedrooms": 6
+},
+{
+  "average_price": 210000,
+  "total_properties": 1,
+  "city": "Morovis",
+  "bedrooms": 3
+},
+{
+  "average_price": 365000,
+  "total_properties": 1,
+  "city": "Morovis",
+  "bedrooms": 5
+},
+{
+  "average_price": 55000,
+  "total_properties": 1,
+  "city": "Naranjito",
+  "bedrooms": 2
+},
+{
+  "average_price": 172000,
+  "total_properties": 1,
+  "city": "Naranjito",
+  "bedrooms": 6
+},
+{
+  "average_price": 3900000,
+  "total_properties": 1,
+  "city": "Penuelas",
+  "bedrooms": 6
+},
+{
+  "average_price": 220000,
+  "total_properties": 1,
+  "city": "Ponce",
+  "bedrooms": 1
+},
+{
+  "average_price": 100000,
+  "total_properties": 1,
+  "city": "Ponce",
+  "bedrooms": 2
+},
+{
+  "average_price": 97200,
+  "total_properties": 3,
+  "city": "Ponce",
+  "bedrooms": 3
+},
+{
+  "average_price": 285000,
+  "total_properties": 2,
+  "city": "Ponce",
+  "bedrooms": 4
+},
+{
+  "average_price": 476333.3333333333,
+  "total_properties": 3,
+  "city": "Ponce",
+  "bedrooms": 5
+},
+{
+  "average_price": 3000000,
+  "total_properties": 1,
+  "city": "Quebradillas",
+  "bedrooms": null
+},
+{
+  "average_price": 597500,
+  "total_properties": 2,
+  "city": "Quebradillas",
+  "bedrooms": 5
+},
+{
+  "average_price": 1789500,
+  "total_properties": 2,
+  "city": "Rincon",
+  "bedrooms": null
+},
+{
+  "average_price": 349000,
+  "total_properties": 1,
+  "city": "Rincon",
+  "bedrooms": 3
+},
+{
+  "average_price": 950000,
+  "total_properties": 1,
+  "city": "Rincon",
+  "bedrooms": 4
+},
+{
+  "average_price": 950000,
+  "total_properties": 1,
+  "city": "Rincon",
+  "bedrooms": 9
+},
+{
+  "average_price": 155000,
+  "total_properties": 1,
+  "city": "San German",
+  "bedrooms": null
+},
+{
+  "average_price": 110000,
+  "total_properties": 2,
+  "city": "San German",
+  "bedrooms": 3
+},
+{
+  "average_price": 415000,
+  "total_properties": 2,
+  "city": "San Sebastian",
+  "bedrooms": 3
+},
+{
+  "average_price": 327000,
+  "total_properties": 2,
+  "city": "San Sebastian",
+  "bedrooms": 4
+},
+{
+  "average_price": 495000,
+  "total_properties": 1,
+  "city": "Santa Isabel",
+  "bedrooms": 4
+},
+{
+  "average_price": 25000,
+  "total_properties": 1,
+  "city": "Toa Alta",
+  "bedrooms": null
+},
+{
+  "average_price": 157500,
+  "total_properties": 2,
+  "city": "Toa Alta",
+  "bedrooms": 3
+},
+{
+  "average_price": 157500,
+  "total_properties": 1,
+  "city": "Toa Alta",
+  "bedrooms": 4
+},
+{
+  "average_price": 65000,
+  "total_properties": 1,
+  "city": "Toa Alta",
+  "bedrooms": 6
+},
+{
+  "average_price": 63800,
+  "total_properties": 1,
+  "city": "Toa Baja",
+  "bedrooms": 3
+},
+{
+  "average_price": 195000,
+  "total_properties": 1,
+  "city": "Utuado",
+  "bedrooms": 3
+},
+{
+  "average_price": 79000,
+  "total_properties": 1,
+  "city": "Utuado",
+  "bedrooms": 5
+},
+{
+  "average_price": 585000,
+  "total_properties": 3,
+  "city": "Vega Alta",
+  "bedrooms": 3
+},
+{
+  "average_price": 100000,
+  "total_properties": 1,
+  "city": "Vega Alta",
+  "bedrooms": 5
+},
+{
+  "average_price": 179500,
+  "total_properties": 2,
+  "city": "Vega Baja",
+  "bedrooms": 3
+},
+{
+  "average_price": 245000,
+  "total_properties": 1,
+  "city": "Vega Baja",
+  "bedrooms": 4
+},
+{
+  "average_price": 189000,
+  "total_properties": 1,
+  "city": "Villalba",
+  "bedrooms": 6
+},
+{
+  "average_price": 50000,
+  "total_properties": 1,
+  "city": "Yauco",
+  "bedrooms": 2
+},
+{
+  "average_price": 104333.33333333333,
+  "total_properties": 3,
+  "city": "Yauco",
+  "bedrooms": 3
+},
+{
+  "average_price": 499900,
+  "total_properties": 1,
+  "city": "Yauco",
+  "bedrooms": 4
+}]

@@ -1,0 +1,35 @@
+[{
+  "_id": 0,
+  "count": 96,
+  "average_size": 1159.795918367347
+},
+{
+  "_id": 100000,
+  "count": 84,
+  "average_size": 1463.0882352941176
+},
+{
+  "_id": 200000,
+  "count": 36,
+  "average_size": 2126.75
+},
+{
+  "_id": 300000,
+  "count": 20,
+  "average_size": 2698
+},
+{
+  "_id": 400000,
+  "count": 18,
+  "average_size": 6192.0625
+},
+{
+  "_id": 500000,
+  "count": 26,
+  "average_size": 3240.318181818182
+},
+{
+  "_id": "Over 1M",
+  "count": 20,
+  "average_size": 4749
+}]

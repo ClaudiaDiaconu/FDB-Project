@@ -1,0 +1,325 @@
+[{
+  "total_with_balcony": 1,
+  "city": "Adjuntas",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 1,
+  "city": "Adjuntas",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 17,
+  "city": "Aguada",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 25,
+  "city": "Aguada",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 17,
+  "city": "Aguadilla",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 22,
+  "city": "Aguadilla",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 3,
+  "city": "Anasco",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 4,
+  "city": "Anasco",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 26,
+  "city": "Arecibo",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 14,
+  "city": "Arecibo",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 5,
+  "city": "Barceloneta",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 3,
+  "city": "Barceloneta",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 1,
+  "city": "Boqueron",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 16,
+  "city": "Cabo Rojo",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 17,
+  "city": "Cabo Rojo",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 1,
+  "city": "Caguas",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 1,
+  "city": "Camuy",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 2,
+  "city": "Camuy",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 1,
+  "city": "Ciales",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 1,
+  "city": "Coamo",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 1,
+  "city": "Corozal",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 11,
+  "city": "Dorado",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 2,
+  "city": "Dorado",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 1,
+  "city": "Guanica",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 1,
+  "city": "Guanica",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 1,
+  "city": "Guayanilla",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 2,
+  "city": "Hatillo",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 4,
+  "city": "Hatillo",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 3,
+  "city": "Hormigueros",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 2,
+  "city": "Hormigueros",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 6,
+  "city": "Isabela",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 1,
+  "city": "Isabela",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 1,
+  "city": "Juana Diaz",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 1,
+  "city": "Juana Diaz",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 2,
+  "city": "Lajas",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 1,
+  "city": "Lares",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 2,
+  "city": "Las Marias",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 3,
+  "city": "Manati",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 2,
+  "city": "Manati",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 3,
+  "city": "Maricao",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 2,
+  "city": "Maricao",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 8,
+  "city": "Mayaguez",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 7,
+  "city": "Mayaguez",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 3,
+  "city": "Moca",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 2,
+  "city": "Morovis",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 2,
+  "city": "Naranjito",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 1,
+  "city": "Penuelas",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 9,
+  "city": "Ponce",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 1,
+  "city": "Ponce",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 3,
+  "city": "Quebradillas",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 3,
+  "city": "Rincon",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 2,
+  "city": "Rincon",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 3,
+  "city": "San German",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 4,
+  "city": "San Sebastian",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 1,
+  "city": "Santa Isabel",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 4,
+  "city": "Toa Alta",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 1,
+  "city": "Toa Alta",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 1,
+  "city": "Toa Baja",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 2,
+  "city": "Utuado",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 4,
+  "city": "Vega Alta",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 2,
+  "city": "Vega Baja",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 1,
+  "city": "Vega Baja",
+  "property_type": "small"
+},
+{
+  "total_with_balcony": 1,
+  "city": "Villalba",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 2,
+  "city": "Yauco",
+  "property_type": "large"
+},
+{
+  "total_with_balcony": 3,
+  "city": "Yauco",
+  "property_type": "small"
+}]

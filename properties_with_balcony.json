@@ -1,0 +1,5100 @@
+[{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f040"
+  },
+  "price": 11500000,
+  "address": {
+    "street": "974575.0",
+    "city": "Dorado",
+    "state": "Puerto Rico",
+    "zip": "00646"
+  },
+  "house_size": 7000,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef79"
+  },
+  "price": 10000000,
+  "address": {
+    "street": "1233063.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 6000,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efbd"
+  },
+  "price": 8000000,
+  "address": {
+    "street": "6475.0",
+    "city": "Isabela",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f043"
+  },
+  "price": 5000000,
+  "address": {
+    "street": "388280.0",
+    "city": "Dorado",
+    "state": "Puerto Rico",
+    "zip": "00646"
+  },
+  "house_size": 3500,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef6a"
+  },
+  "price": 3900000,
+  "address": {
+    "street": "269007.0",
+    "city": "Penuelas",
+    "state": "Puerto Rico",
+    "zip": "00624"
+  },
+  "house_size": 9297,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f041"
+  },
+  "price": 3500000,
+  "address": {
+    "street": "595727.0",
+    "city": "Dorado",
+    "state": "Puerto Rico",
+    "zip": "00646"
+  },
+  "house_size": 2500,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef83"
+  },
+  "price": 3250000,
+  "address": {
+    "street": "1856959.0",
+    "city": "Rincon",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f021"
+  },
+  "price": 3000000,
+  "address": {
+    "street": "1836183.0",
+    "city": "Quebradillas",
+    "state": "Puerto Rico",
+    "zip": "00678"
+  },
+  "house_size": 3000,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f03f"
+  },
+  "price": 2000000,
+  "address": {
+    "street": "780900.0",
+    "city": "Dorado",
+    "state": "Puerto Rico",
+    "zip": "00646"
+  },
+  "house_size": 3500,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efee"
+  },
+  "price": 1800000,
+  "address": {
+    "street": "1902806.0",
+    "city": "Isabela",
+    "state": "Puerto Rico",
+    "zip": "00662"
+  },
+  "house_size": 10000,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f064"
+  },
+  "price": 1400000,
+  "address": {
+    "street": "1902832.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef86"
+  },
+  "price": 1399000,
+  "address": {
+    "street": "6714.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 5517,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f047"
+  },
+  "price": 1325000,
+  "address": {
+    "street": "600545.0",
+    "city": "Dorado",
+    "state": "Puerto Rico",
+    "zip": "00646"
+  },
+  "house_size": 2500,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f058"
+  },
+  "price": 1321000,
+  "address": {
+    "street": "1917469.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00622"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f01a"
+  },
+  "price": 1200000,
+  "address": {
+    "street": "1946308.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efd6"
+  },
+  "price": 1200000,
+  "address": {
+    "street": "1181969.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00677"
+  },
+  "house_size": 6000,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f050"
+  },
+  "price": 1125000,
+  "address": {
+    "street": "1854725.0",
+    "city": "Dorado",
+    "state": "Puerto Rico",
+    "zip": "00646"
+  },
+  "house_size": 1172,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f04b"
+  },
+  "price": 1100000,
+  "address": {
+    "street": "1484017.0",
+    "city": "Dorado",
+    "state": "Puerto Rico",
+    "zip": "00646"
+  },
+  "house_size": 3500,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f029"
+  },
+  "price": 1100000,
+  "address": {
+    "street": "1120998.0",
+    "city": "Quebradillas",
+    "state": "Puerto Rico",
+    "zip": "00678"
+  },
+  "house_size": 3000,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efbe"
+  },
+  "price": 1000000,
+  "address": {
+    "street": "1850843.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efef"
+  },
+  "price": 975000,
+  "address": {
+    "street": "1913925.0",
+    "city": "Isabela",
+    "state": "Puerto Rico",
+    "zip": "00662"
+  },
+  "house_size": 3739,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efd5"
+  },
+  "price": 950000,
+  "address": {
+    "street": "1854848.0",
+    "city": "Rincon",
+    "state": "Puerto Rico",
+    "zip": "00677"
+  },
+  "house_size": 3852,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1eff0"
+  },
+  "price": 950000,
+  "address": {
+    "street": "6927.0",
+    "city": "Rincon",
+    "state": "Puerto Rico",
+    "zip": "00677"
+  },
+  "house_size": 2450,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f04d"
+  },
+  "price": 895000,
+  "address": {
+    "street": "1947221.0",
+    "city": "Dorado",
+    "state": "Puerto Rico",
+    "zip": "00646"
+  },
+  "house_size": 2490,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef9b"
+  },
+  "price": 850000,
+  "address": {
+    "street": "792809.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 8460,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efe4"
+  },
+  "price": 835000,
+  "address": {
+    "street": "10282.0",
+    "city": "Hormigueros",
+    "state": "Puerto Rico",
+    "zip": "00660"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efd3"
+  },
+  "price": 750000,
+  "address": {
+    "street": "1855338.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": 4800,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efb0"
+  },
+  "price": 739500,
+  "address": {
+    "street": "598237.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef80"
+  },
+  "price": 720000,
+  "address": {
+    "street": "1667516.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 2715,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efbf"
+  },
+  "price": 695000,
+  "address": {
+    "street": "1902854.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef68"
+  },
+  "price": 650000,
+  "address": {
+    "street": "1902746.0",
+    "city": "Mayaguez",
+    "state": "Puerto Rico",
+    "zip": "00680"
+  },
+  "house_size": 3709,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efb4"
+  },
+  "price": 649900,
+  "address": {
+    "street": "1850840.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 3700,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef4f"
+  },
+  "price": 649000,
+  "address": {
+    "street": "1879215.0",
+    "city": "Ponce",
+    "state": "Puerto Rico",
+    "zip": "00731"
+  },
+  "house_size": 2677,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef88"
+  },
+  "price": 649000,
+  "address": {
+    "street": "1946165.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f04f"
+  },
+  "price": 635000,
+  "address": {
+    "street": "6119.0",
+    "city": "Vega Alta",
+    "state": "Puerto Rico",
+    "zip": "00692"
+  },
+  "house_size": 2100,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f048"
+  },
+  "price": 625000,
+  "address": {
+    "street": "5095.0",
+    "city": "Vega Alta",
+    "state": "Puerto Rico",
+    "zip": "00692"
+  },
+  "house_size": 2096,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efb3"
+  },
+  "price": 620000,
+  "address": {
+    "street": "119241.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 3267,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef87"
+  },
+  "price": 600000,
+  "address": {
+    "street": "1946165.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 2400,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef7b"
+  },
+  "price": 575000,
+  "address": {
+    "street": "1962620.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 2500,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f04a"
+  },
+  "price": 575000,
+  "address": {
+    "street": "652522.0",
+    "city": "Dorado",
+    "state": "Puerto Rico",
+    "zip": "00646"
+  },
+  "house_size": 1500,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef53"
+  },
+  "price": 575000,
+  "address": {
+    "street": "1312671.0",
+    "city": "San Sebastian",
+    "state": "Puerto Rico",
+    "zip": "00685"
+  },
+  "house_size": 4000,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef69"
+  },
+  "price": 555000,
+  "address": {
+    "street": "480944.0",
+    "city": "Ponce",
+    "state": "Puerto Rico",
+    "zip": "00730"
+  },
+  "house_size": 3100,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f04c"
+  },
+  "price": 550000,
+  "address": {
+    "street": "1837660.0",
+    "city": "Dorado",
+    "state": "Puerto Rico",
+    "zip": "00646"
+  },
+  "house_size": 1800,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efa9"
+  },
+  "price": 550000,
+  "address": {
+    "street": "483647.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 4020,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efa2"
+  },
+  "price": 500000,
+  "address": {
+    "street": "1902866.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 2950,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef76"
+  },
+  "price": 500000,
+  "address": {
+    "street": "10282.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 2962,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f05c"
+  },
+  "price": 499900,
+  "address": {
+    "street": "2000888.0",
+    "city": "Yauco",
+    "state": "Puerto Rico",
+    "zip": "00698"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efea"
+  },
+  "price": 499000,
+  "address": {
+    "street": "1307166.0",
+    "city": "Anasco",
+    "state": "Puerto Rico",
+    "zip": "00610"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef9d"
+  },
+  "price": 499000,
+  "address": {
+    "street": "117065.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 3734,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efd7"
+  },
+  "price": 495000,
+  "address": {
+    "street": "1446813.0",
+    "city": "Lajas",
+    "state": "Puerto Rico",
+    "zip": "00667"
+  },
+  "house_size": 6500,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f04e"
+  },
+  "price": 495000,
+  "address": {
+    "street": "1946328.0",
+    "city": "Vega Alta",
+    "state": "Puerto Rico",
+    "zip": "00646"
+  },
+  "house_size": 1564,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef61"
+  },
+  "price": 495000,
+  "address": {
+    "street": "1962660.0",
+    "city": "Santa Isabel",
+    "state": "Puerto Rico",
+    "zip": "00757"
+  },
+  "house_size": 2886,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efed"
+  },
+  "price": 485000,
+  "address": {
+    "street": "1446871.0",
+    "city": "Isabela",
+    "state": "Puerto Rico",
+    "zip": "00662"
+  },
+  "house_size": 3066,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1eff4"
+  },
+  "price": 475000,
+  "address": {
+    "street": "1427607.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 10000,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef65"
+  },
+  "price": 475000,
+  "address": {
+    "street": "1940314.0",
+    "city": "San Sebastian",
+    "state": "Puerto Rico",
+    "zip": "00685"
+  },
+  "house_size": 3690,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef5e"
+  },
+  "price": 469000,
+  "address": {
+    "street": "1857020.0",
+    "city": "Isabela",
+    "state": "Puerto Rico",
+    "zip": "00662"
+  },
+  "house_size": 2505,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f049"
+  },
+  "price": 465000,
+  "address": {
+    "street": "1609595.0",
+    "city": "Dorado",
+    "state": "Puerto Rico",
+    "zip": "00646"
+  },
+  "house_size": 2200,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f056"
+  },
+  "price": 460000,
+  "address": {
+    "street": "1450082.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00622"
+  },
+  "house_size": 3328,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efec"
+  },
+  "price": 450000,
+  "address": {
+    "street": "1793737.0",
+    "city": "Isabela",
+    "state": "Puerto Rico",
+    "zip": "00662"
+  },
+  "house_size": 4000,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efa5"
+  },
+  "price": 425000,
+  "address": {
+    "street": "1946165.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 3468,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f028"
+  },
+  "price": 425000,
+  "address": {
+    "street": "1856906.0",
+    "city": "Camuy",
+    "state": "Puerto Rico",
+    "zip": "00627"
+  },
+  "house_size": 2400,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef5b"
+  },
+  "price": 425000,
+  "address": {
+    "street": "955013.0",
+    "city": "Ponce",
+    "state": "Puerto Rico",
+    "zip": "00730"
+  },
+  "house_size": 3000,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f02a"
+  },
+  "price": 418000,
+  "address": {
+    "street": "2402.0",
+    "city": "Hatillo",
+    "state": "Puerto Rico",
+    "zip": "00659"
+  },
+  "house_size": 3650,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef6b"
+  },
+  "price": 400000,
+  "address": {
+    "street": "1857015.0",
+    "city": "Moca",
+    "state": "Puerto Rico",
+    "zip": "00676"
+  },
+  "house_size": 43082,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efd9"
+  },
+  "price": 395000,
+  "address": {
+    "street": "948184.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": 2800,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efe1"
+  },
+  "price": 391000,
+  "address": {
+    "street": "10284.0",
+    "city": "Hormigueros",
+    "state": "Puerto Rico",
+    "zip": "00660"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef7a"
+  },
+  "price": 389000,
+  "address": {
+    "street": "1902739.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 1880,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efdb"
+  },
+  "price": 389000,
+  "address": {
+    "street": "593379.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": 1356,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef6c"
+  },
+  "price": 380000,
+  "address": {
+    "street": "1855421.0",
+    "city": "Hatillo",
+    "state": "Puerto Rico",
+    "zip": "00659"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef81"
+  },
+  "price": 375000,
+  "address": {
+    "street": "166250.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 2775,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f027"
+  },
+  "price": 375000,
+  "address": {
+    "street": "1854739.0",
+    "city": "Barceloneta",
+    "state": "Puerto Rico",
+    "zip": "00617"
+  },
+  "house_size": 2961,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f02b"
+  },
+  "price": 365000,
+  "address": {
+    "street": "1902830.0",
+    "city": "Morovis",
+    "state": "Puerto Rico",
+    "zip": "00687"
+  },
+  "house_size": 2366,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f053"
+  },
+  "price": 365000,
+  "address": {
+    "street": "1139967.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00622"
+  },
+  "house_size": 2800,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f003"
+  },
+  "price": 360000,
+  "address": {
+    "street": "1567105.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 6000,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f02e"
+  },
+  "price": 350000,
+  "address": {
+    "street": "1902881.0",
+    "city": "Hatillo",
+    "state": "Puerto Rico",
+    "zip": "00659"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1eff1"
+  },
+  "price": 349000,
+  "address": {
+    "street": "1966335.0",
+    "city": "Rincon",
+    "state": "Puerto Rico",
+    "zip": "00677"
+  },
+  "house_size": 1688,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef77"
+  },
+  "price": 339000,
+  "address": {
+    "street": "268641.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 1955,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efc8"
+  },
+  "price": 330000,
+  "address": {
+    "street": "1902816.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": 1620,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef91"
+  },
+  "price": 329000,
+  "address": {
+    "street": "939073.0",
+    "city": "Rincon",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f05b"
+  },
+  "price": 325000,
+  "address": {
+    "street": "1879192.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": 4000,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f06b"
+  },
+  "price": 325000,
+  "address": {
+    "street": "1917857.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": 3089,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef64"
+  },
+  "price": 305000,
+  "address": {
+    "street": "1902855.0",
+    "city": "Moca",
+    "state": "Puerto Rico",
+    "zip": "00676"
+  },
+  "house_size": 1928,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efa6"
+  },
+  "price": 300000,
+  "address": {
+    "street": "1258490.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 547,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef4a"
+  },
+  "price": 300000,
+  "address": {
+    "street": "1946226.0",
+    "city": "Las Marias",
+    "state": "Puerto Rico",
+    "zip": "00670"
+  },
+  "house_size": 5403,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efe3"
+  },
+  "price": 290000,
+  "address": {
+    "street": "10282.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f026"
+  },
+  "price": 290000,
+  "address": {
+    "street": "1868675.0",
+    "city": "Manati",
+    "state": "Puerto Rico",
+    "zip": "00674"
+  },
+  "house_size": 2236,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efa8"
+  },
+  "price": 290000,
+  "address": {
+    "street": "117027.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 2280,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f017"
+  },
+  "price": 289000,
+  "address": {
+    "street": "1856979.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 2832,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efca"
+  },
+  "price": 285000,
+  "address": {
+    "street": "575006.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": 1000,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f009"
+  },
+  "price": 279000,
+  "address": {
+    "street": "1902853.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 2872,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f062"
+  },
+  "price": 275000,
+  "address": {
+    "street": "1902773.0",
+    "city": "Lajas",
+    "state": "Puerto Rico",
+    "zip": "00667"
+  },
+  "house_size": 1200,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f042"
+  },
+  "price": 270000,
+  "address": {
+    "street": "1879198.0",
+    "city": "Toa Alta",
+    "state": "Puerto Rico",
+    "zip": "00953"
+  },
+  "house_size": 2400,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef78"
+  },
+  "price": 265000,
+  "address": {
+    "street": "1868699.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 1200,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efa0"
+  },
+  "price": 260000,
+  "address": {
+    "street": "1136713.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 1760,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f054"
+  },
+  "price": 260000,
+  "address": {
+    "street": "1645160.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00622"
+  },
+  "house_size": 2214,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef5a"
+  },
+  "price": 255000,
+  "address": {
+    "street": "1948621.0",
+    "city": "San Sebastian",
+    "state": "Puerto Rico",
+    "zip": "00685"
+  },
+  "house_size": 1500,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef73"
+  },
+  "price": 252000,
+  "address": {
+    "street": "1902727.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 2500,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efcf"
+  },
+  "price": 250000,
+  "address": {
+    "street": "1071244.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": 3052,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f057"
+  },
+  "price": 250000,
+  "address": {
+    "street": "268562.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00622"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef85"
+  },
+  "price": 249500,
+  "address": {
+    "street": "1032552.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef72"
+  },
+  "price": 249000,
+  "address": {
+    "street": "1902736.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 1380,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f023"
+  },
+  "price": 245000,
+  "address": {
+    "street": "867517.0",
+    "city": "Vega Baja",
+    "state": "Puerto Rico",
+    "zip": "00693"
+  },
+  "house_size": 2038,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f008"
+  },
+  "price": 239000,
+  "address": {
+    "street": "1551669.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 2715,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef51"
+  },
+  "price": 235000,
+  "address": {
+    "street": "13687.0",
+    "city": "Mayaguez",
+    "state": "Puerto Rico",
+    "zip": "00680"
+  },
+  "house_size": 3450,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efaa"
+  },
+  "price": 234900,
+  "address": {
+    "street": "1850808.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 2035,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef9f"
+  },
+  "price": 225900,
+  "address": {
+    "street": "1946283.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 2618,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef60"
+  },
+  "price": 225000,
+  "address": {
+    "street": "1987398.0",
+    "city": "Ponce",
+    "state": "Puerto Rico",
+    "zip": "00717"
+  },
+  "house_size": 1600,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efa3"
+  },
+  "price": 225000,
+  "address": {
+    "street": "1838380.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 1565,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f025"
+  },
+  "price": 225000,
+  "address": {
+    "street": "1881195.0",
+    "city": "Vega Baja",
+    "state": "Puerto Rico",
+    "zip": "00693"
+  },
+  "house_size": 1217,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1eff9"
+  },
+  "price": 220000,
+  "address": {
+    "street": "1856978.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 2900,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef62"
+  },
+  "price": 220000,
+  "address": {
+    "street": "523790.0",
+    "city": "Ponce",
+    "state": "Puerto Rico",
+    "zip": "00730"
+  },
+  "house_size": 850,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef96"
+  },
+  "price": 215000,
+  "address": {
+    "street": "595559.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 2070,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef98"
+  },
+  "price": 215000,
+  "address": {
+    "street": "1268649.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 1900,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efcb"
+  },
+  "price": 215000,
+  "address": {
+    "street": "1480314.0",
+    "city": "Mayaguez",
+    "state": "Puerto Rico",
+    "zip": "00680"
+  },
+  "house_size": 2200,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f013"
+  },
+  "price": 215000,
+  "address": {
+    "street": "1449539.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 2183,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f01d"
+  },
+  "price": 210000,
+  "address": {
+    "street": "913609.0",
+    "city": "Morovis",
+    "state": "Puerto Rico",
+    "zip": "00687"
+  },
+  "house_size": 2500,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f05f"
+  },
+  "price": 205000,
+  "address": {
+    "street": "1002452.0",
+    "city": "Guanica",
+    "state": "Puerto Rico",
+    "zip": "00653"
+  },
+  "house_size": 976,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efbb"
+  },
+  "price": 200000,
+  "address": {
+    "street": "1857008.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f01c"
+  },
+  "price": 200000,
+  "address": {
+    "street": "1855347.0",
+    "city": "Hatillo",
+    "state": "Puerto Rico",
+    "zip": "00659"
+  },
+  "house_size": 3400,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1eff5"
+  },
+  "price": 200000,
+  "address": {
+    "street": "1946165.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 3413,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efb9"
+  },
+  "price": 199900,
+  "address": {
+    "street": "1838381.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f019"
+  },
+  "price": 197000,
+  "address": {
+    "street": "1856909.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 1500,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef66"
+  },
+  "price": 195000,
+  "address": {
+    "street": "1856898.0",
+    "city": "Utuado",
+    "state": "Puerto Rico",
+    "zip": "00641"
+  },
+  "house_size": 2500,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efd1"
+  },
+  "price": 190000,
+  "address": {
+    "street": "6946.0",
+    "city": "Mayaguez",
+    "state": "Puerto Rico",
+    "zip": "00680"
+  },
+  "house_size": 1600,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef5f"
+  },
+  "price": 189000,
+  "address": {
+    "street": "1902849.0",
+    "city": "Villalba",
+    "state": "Puerto Rico",
+    "zip": "00766"
+  },
+  "house_size": 1943,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef57"
+  },
+  "price": 189000,
+  "address": {
+    "street": "1307740.0",
+    "city": "Coamo",
+    "state": "Puerto Rico",
+    "zip": "00769"
+  },
+  "house_size": 1213,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef89"
+  },
+  "price": 189000,
+  "address": {
+    "street": "1902894.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 951,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f01b"
+  },
+  "price": 185000,
+  "address": {
+    "street": "869853.0",
+    "city": "Manati",
+    "state": "Puerto Rico",
+    "zip": "00674"
+  },
+  "house_size": 1700,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f063"
+  },
+  "price": 182000,
+  "address": {
+    "street": "1902859.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef9e"
+  },
+  "price": 180000,
+  "address": {
+    "street": "846259.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 1500,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef71"
+  },
+  "price": 180000,
+  "address": {
+    "street": "1234696.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 1138,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef46"
+  },
+  "price": 179000,
+  "address": {
+    "street": "1850806.0",
+    "city": "San Sebastian",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 2520,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f000"
+  },
+  "price": 179000,
+  "address": {
+    "street": "1855451.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 2200,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f020"
+  },
+  "price": 174900,
+  "address": {
+    "street": "1985068.0",
+    "city": "Barceloneta",
+    "state": "Puerto Rico",
+    "zip": "00617"
+  },
+  "house_size": 1195,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f045"
+  },
+  "price": 172000,
+  "address": {
+    "street": "1940307.0",
+    "city": "Naranjito",
+    "state": "Puerto Rico",
+    "zip": "00719"
+  },
+  "house_size": 1880,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f00c"
+  },
+  "price": 168000,
+  "address": {
+    "street": "1902837.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 1600,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efe9"
+  },
+  "price": 165000,
+  "address": {
+    "street": "560745.0",
+    "city": "Anasco",
+    "state": "Puerto Rico",
+    "zip": "00610"
+  },
+  "house_size": 2327,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef95"
+  },
+  "price": 165000,
+  "address": {
+    "street": "167086.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef56"
+  },
+  "price": 165000,
+  "address": {
+    "street": "117231.0",
+    "city": "Moca",
+    "state": "Puerto Rico",
+    "zip": "00676"
+  },
+  "house_size": 3000,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f024"
+  },
+  "price": 161000,
+  "address": {
+    "street": "435967.0",
+    "city": "Caguas",
+    "state": "Puerto Rico",
+    "zip": "00727"
+  },
+  "house_size": 1100,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efe2"
+  },
+  "price": 160000,
+  "address": {
+    "street": "10282.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efc4"
+  },
+  "price": 160000,
+  "address": {
+    "street": "1902838.0",
+    "city": "Maricao",
+    "state": "Puerto Rico",
+    "zip": "00606"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef74"
+  },
+  "price": 160000,
+  "address": {
+    "street": "1842923.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 813,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efe5"
+  },
+  "price": 159000,
+  "address": {
+    "street": "1902890.0",
+    "city": "Mayaguez",
+    "state": "Puerto Rico",
+    "zip": "00680"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f03e"
+  },
+  "price": 157500,
+  "address": {
+    "street": "377951.0",
+    "city": "Toa Alta",
+    "state": "Puerto Rico",
+    "zip": "00953"
+  },
+  "house_size": 1650,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef4d"
+  },
+  "price": 155000,
+  "address": {
+    "street": "1946165.0",
+    "city": "Lares",
+    "state": "Puerto Rico",
+    "zip": "00669"
+  },
+  "house_size": 4161,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f065"
+  },
+  "price": 155000,
+  "address": {
+    "street": "1902829.0",
+    "city": "San German",
+    "state": "Puerto Rico",
+    "zip": "00683"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f00d"
+  },
+  "price": 150000,
+  "address": {
+    "street": "1509489.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 1604,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef94"
+  },
+  "price": 150000,
+  "address": {
+    "street": "1902760.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1effc"
+  },
+  "price": 150000,
+  "address": {
+    "street": "1946210.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 800,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efd2"
+  },
+  "price": 150000,
+  "address": {
+    "street": "598681.0",
+    "city": "San German",
+    "state": "Puerto Rico",
+    "zip": "00683"
+  },
+  "house_size": 363,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef8a"
+  },
+  "price": 150000,
+  "address": {
+    "street": "1902798.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef4c"
+  },
+  "price": 150000,
+  "address": {
+    "street": "1773902.0",
+    "city": "Juana Diaz",
+    "state": "Puerto Rico",
+    "zip": "00795"
+  },
+  "house_size": 1045,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efbc"
+  },
+  "price": 150000,
+  "address": {
+    "street": "6707.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f06a"
+  },
+  "price": 150000,
+  "address": {
+    "street": "1837366.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": 936,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef70"
+  },
+  "price": 149900,
+  "address": {
+    "street": "1850822.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 2100,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efe7"
+  },
+  "price": 149900,
+  "address": {
+    "street": "6713.0",
+    "city": "Anasco",
+    "state": "Puerto Rico",
+    "zip": "00610"
+  },
+  "house_size": 1687,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1eff7"
+  },
+  "price": 148000,
+  "address": {
+    "street": "1902831.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 2058,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f001"
+  },
+  "price": 145000,
+  "address": {
+    "street": "1427895.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 3500,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef44"
+  },
+  "price": 145000,
+  "address": {
+    "street": "1947675.0",
+    "city": "Ponce",
+    "state": "Puerto Rico",
+    "zip": "00731"
+  },
+  "house_size": 1800,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f00f"
+  },
+  "price": 140000,
+  "address": {
+    "street": "918510.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 1500,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efcd"
+  },
+  "price": 140000,
+  "address": {
+    "street": "757729.0",
+    "city": "Mayaguez",
+    "state": "Puerto Rico",
+    "zip": "00680"
+  },
+  "house_size": 1200,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef9c"
+  },
+  "price": 140000,
+  "address": {
+    "street": "1868702.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 1116,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efeb"
+  },
+  "price": 140000,
+  "address": {
+    "street": "1667382.0",
+    "city": "Anasco",
+    "state": "Puerto Rico",
+    "zip": "00610"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef54"
+  },
+  "price": 140000,
+  "address": {
+    "street": "6710.0",
+    "city": "Anasco",
+    "state": "Puerto Rico",
+    "zip": "00610"
+  },
+  "house_size": 1230,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef6f"
+  },
+  "price": 139500,
+  "address": {
+    "street": "397960.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 3000,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f016"
+  },
+  "price": 138000,
+  "address": {
+    "street": "199310.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 1000,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f012"
+  },
+  "price": 135000,
+  "address": {
+    "street": "1437193.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 1500,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f060"
+  },
+  "price": 135000,
+  "address": {
+    "street": "198778.0",
+    "city": "Hormigueros",
+    "state": "Puerto Rico",
+    "zip": "00660"
+  },
+  "house_size": 1163,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f005"
+  },
+  "price": 134900,
+  "address": {
+    "street": "1840769.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 1856,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f052"
+  },
+  "price": 134000,
+  "address": {
+    "street": "1902722.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00622"
+  },
+  "house_size": 900,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f022"
+  },
+  "price": 134000,
+  "address": {
+    "street": "733378.0",
+    "city": "Vega Baja",
+    "state": "Puerto Rico",
+    "zip": "00693"
+  },
+  "house_size": 895,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f018"
+  },
+  "price": 132000,
+  "address": {
+    "street": "1725570.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 1000,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef8f"
+  },
+  "price": 130000,
+  "address": {
+    "street": "1902763.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef92"
+  },
+  "price": 130000,
+  "address": {
+    "street": "6711.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f06c"
+  },
+  "price": 130000,
+  "address": {
+    "street": "560375.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": 2064,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efba"
+  },
+  "price": 125000,
+  "address": {
+    "street": "822915.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efd4"
+  },
+  "price": 125000,
+  "address": {
+    "street": "939072.0",
+    "city": "Mayaguez",
+    "state": "Puerto Rico",
+    "zip": "00682"
+  },
+  "house_size": 390,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efc6"
+  },
+  "price": 125000,
+  "address": {
+    "street": "436480.0",
+    "city": "Hormigueros",
+    "state": "Puerto Rico",
+    "zip": "00660"
+  },
+  "house_size": 2000,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef59"
+  },
+  "price": 122500,
+  "address": {
+    "street": "437877.0",
+    "city": "Yauco",
+    "state": "Puerto Rico",
+    "zip": "00698"
+  },
+  "house_size": 1118,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f069"
+  },
+  "price": 122000,
+  "address": {
+    "street": "521774.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": 1400,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef67"
+  },
+  "price": 120000,
+  "address": {
+    "street": "1667467.0",
+    "city": "Las Marias",
+    "state": "Puerto Rico",
+    "zip": "00670"
+  },
+  "house_size": 1800,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efdf"
+  },
+  "price": 120000,
+  "address": {
+    "street": "1897484.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef50"
+  },
+  "price": 120000,
+  "address": {
+    "street": "17854.0",
+    "city": "Yauco",
+    "state": "Puerto Rico",
+    "zip": "00698"
+  },
+  "house_size": 1100,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efc9"
+  },
+  "price": 115000,
+  "address": {
+    "street": "1394934.0",
+    "city": "Mayaguez",
+    "state": "Puerto Rico",
+    "zip": "00680"
+  },
+  "house_size": 1760,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efcc"
+  },
+  "price": 115000,
+  "address": {
+    "street": "962228.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": 1205,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef99"
+  },
+  "price": 115000,
+  "address": {
+    "street": "1962563.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 980,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f066"
+  },
+  "price": 115000,
+  "address": {
+    "street": "1009987.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00636"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef58"
+  },
+  "price": 115000,
+  "address": {
+    "street": "481889.0",
+    "city": "Ponce",
+    "state": "Puerto Rico",
+    "zip": "00716"
+  },
+  "house_size": 1148,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f035"
+  },
+  "price": 114400,
+  "address": {
+    "street": "1855327.0",
+    "city": "Barceloneta",
+    "state": "Puerto Rico",
+    "zip": "00617"
+  },
+  "house_size": 1105,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f01f"
+  },
+  "price": 113600,
+  "address": {
+    "street": "1837500.0",
+    "city": "Manati",
+    "state": "Puerto Rico",
+    "zip": "00674"
+  },
+  "house_size": 800,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f036"
+  },
+  "price": 113500,
+  "address": {
+    "street": "1967757.0",
+    "city": "Barceloneta",
+    "state": "Puerto Rico",
+    "zip": "00617"
+  },
+  "house_size": 955,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f034"
+  },
+  "price": 111000,
+  "address": {
+    "street": "1985086.0",
+    "city": "Barceloneta",
+    "state": "Puerto Rico",
+    "zip": "00617"
+  },
+  "house_size": 1015,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1effb"
+  },
+  "price": 110000,
+  "address": {
+    "street": "1856516.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 1000,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efe8"
+  },
+  "price": 106000,
+  "address": {
+    "street": "1966340.0",
+    "city": "Anasco",
+    "state": "Puerto Rico",
+    "zip": "00610"
+  },
+  "house_size": 826,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f01e"
+  },
+  "price": 105000,
+  "address": {
+    "street": "1869494.0",
+    "city": "Manati",
+    "state": "Puerto Rico",
+    "zip": "00674"
+  },
+  "house_size": 921,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef52"
+  },
+  "price": 105000,
+  "address": {
+    "street": "1868721.0",
+    "city": "Ponce",
+    "state": "Puerto Rico",
+    "zip": "00728"
+  },
+  "house_size": 1500,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef41"
+  },
+  "price": 105000,
+  "address": {
+    "street": "1962661.0",
+    "city": "Adjuntas",
+    "state": "Puerto Rico",
+    "zip": "00601"
+  },
+  "house_size": 920,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f061"
+  },
+  "price": 104000,
+  "address": {
+    "street": "1311508.0",
+    "city": "Mayaguez",
+    "state": "Puerto Rico",
+    "zip": "00682"
+  },
+  "house_size": 1175,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f05d"
+  },
+  "price": 101800,
+  "address": {
+    "street": "1879216.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": 1000,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f067"
+  },
+  "price": 100000,
+  "address": {
+    "street": "1193340.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": 1044,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f00a"
+  },
+  "price": 100000,
+  "address": {
+    "street": "1900756.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 1028,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f03b"
+  },
+  "price": 100000,
+  "address": {
+    "street": "1547175.0",
+    "city": "Vega Alta",
+    "state": "Puerto Rico",
+    "zip": "00692"
+  },
+  "house_size": 1400,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef49"
+  },
+  "price": 100000,
+  "address": {
+    "street": "734904.0",
+    "city": "Ponce",
+    "state": "Puerto Rico",
+    "zip": "00730"
+  },
+  "house_size": 1092,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef9a"
+  },
+  "price": 99000,
+  "address": {
+    "street": "1499349.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 1408,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efc0"
+  },
+  "price": 98000,
+  "address": {
+    "street": "1850836.0",
+    "city": "Maricao",
+    "state": "Puerto Rico",
+    "zip": "00606"
+  },
+  "house_size": 2156,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f051"
+  },
+  "price": 97000,
+  "address": {
+    "street": "1988142.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00622"
+  },
+  "house_size": 900,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efc7"
+  },
+  "price": 95000,
+  "address": {
+    "street": "595722.0",
+    "city": "Guanica",
+    "state": "Puerto Rico",
+    "zip": "00653"
+  },
+  "house_size": 1393,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef6d"
+  },
+  "price": 95000,
+  "address": {
+    "street": "1868667.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 600,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f02f"
+  },
+  "price": 95000,
+  "address": {
+    "street": "151105.0",
+    "city": "Quebradillas",
+    "state": "Puerto Rico",
+    "zip": "95000"
+  },
+  "house_size": 1757,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef90"
+  },
+  "price": 95000,
+  "address": {
+    "street": "1188098.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef93"
+  },
+  "price": 94770,
+  "address": {
+    "street": "166251.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f006"
+  },
+  "price": 94600,
+  "address": {
+    "street": "1992381.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 1009,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef5c"
+  },
+  "price": 93000,
+  "address": {
+    "street": "1854860.0",
+    "city": "Guayanilla",
+    "state": "Puerto Rico",
+    "zip": "00656"
+  },
+  "house_size": 1300,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f033"
+  },
+  "price": 90000,
+  "address": {
+    "street": "1844124.0",
+    "city": "Barceloneta",
+    "state": "Puerto Rico",
+    "zip": "00617"
+  },
+  "house_size": 955,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efd8"
+  },
+  "price": 90000,
+  "address": {
+    "street": "950033.0",
+    "city": "Mayaguez",
+    "state": "Puerto Rico",
+    "zip": "00682"
+  },
+  "house_size": 778,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef75"
+  },
+  "price": 90000,
+  "address": {
+    "street": "1837494.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 813,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f00b"
+  },
+  "price": 89000,
+  "address": {
+    "street": "1856938.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef4b"
+  },
+  "price": 89000,
+  "address": {
+    "street": "1902814.0",
+    "city": "Isabela",
+    "state": "Puerto Rico",
+    "zip": "00662"
+  },
+  "house_size": 1106,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efce"
+  },
+  "price": 87000,
+  "address": {
+    "street": "13690.0",
+    "city": "Mayaguez",
+    "state": "Puerto Rico",
+    "zip": "00682"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef7e"
+  },
+  "price": 85000,
+  "address": {
+    "street": "1188097.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1eff6"
+  },
+  "price": 84900,
+  "address": {
+    "street": "1840770.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efda"
+  },
+  "price": 82000,
+  "address": {
+    "street": "1840559.0",
+    "city": "Mayaguez",
+    "state": "Puerto Rico",
+    "zip": "00680"
+  },
+  "house_size": 471,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f011"
+  },
+  "price": 80000,
+  "address": {
+    "street": "982996.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 750,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efde"
+  },
+  "price": 80000,
+  "address": {
+    "street": "1855526.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f03c"
+  },
+  "price": 80000,
+  "address": {
+    "street": "1584559.0",
+    "city": "Corozal",
+    "state": "Puerto Rico",
+    "zip": "00783"
+  },
+  "house_size": 1500,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efc3"
+  },
+  "price": 80000,
+  "address": {
+    "street": "1897887.0",
+    "city": "Maricao",
+    "state": "Puerto Rico",
+    "zip": "00606"
+  },
+  "house_size": 915,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef42"
+  },
+  "price": 80000,
+  "address": {
+    "street": "1902874.0",
+    "city": "Adjuntas",
+    "state": "Puerto Rico",
+    "zip": "00601"
+  },
+  "house_size": 1527,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef4e"
+  },
+  "price": 79000,
+  "address": {
+    "street": "1761024.0",
+    "city": "Utuado",
+    "state": "Puerto Rico",
+    "zip": "00641"
+  },
+  "house_size": 1620,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1effe"
+  },
+  "price": 79000,
+  "address": {
+    "street": "1855343.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 2472,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efe6"
+  },
+  "price": 79000,
+  "address": {
+    "street": "1902821.0",
+    "city": "Anasco",
+    "state": "Puerto Rico",
+    "zip": "00610"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f002"
+  },
+  "price": 79000,
+  "address": {
+    "street": "821104.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 1262,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f055"
+  },
+  "price": 75000,
+  "address": {
+    "street": "1856947.0",
+    "city": "Boqueron",
+    "state": "Puerto Rico",
+    "zip": "00622"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef5d"
+  },
+  "price": 75000,
+  "address": {
+    "street": "511838.0",
+    "city": "Manati",
+    "state": "Puerto Rico",
+    "zip": "00676"
+  },
+  "house_size": 1080,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efa7"
+  },
+  "price": 75000,
+  "address": {
+    "street": "1902896.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f05a"
+  },
+  "price": 75000,
+  "address": {
+    "street": "1819530.0",
+    "city": "Mayaguez",
+    "state": "Puerto Rico",
+    "zip": "00680"
+  },
+  "house_size": 1200,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1effa"
+  },
+  "price": 75000,
+  "address": {
+    "street": "1856974.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 1100,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f068"
+  },
+  "price": 75000,
+  "address": {
+    "street": "1104886.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": 980,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efad"
+  },
+  "price": 75000,
+  "address": {
+    "street": "1868632.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efc2"
+  },
+  "price": 75000,
+  "address": {
+    "street": "1856895.0",
+    "city": "Maricao",
+    "state": "Puerto Rico",
+    "zip": "00606"
+  },
+  "house_size": 1563,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef8e"
+  },
+  "price": 74000,
+  "address": {
+    "street": "1842584.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef6e"
+  },
+  "price": 74000,
+  "address": {
+    "street": "1902824.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": 900,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef8b"
+  },
+  "price": 74000,
+  "address": {
+    "street": "1966339.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef48"
+  },
+  "price": 71600,
+  "address": {
+    "street": "1048466.0",
+    "city": "Ponce",
+    "state": "Puerto Rico",
+    "zip": "00731"
+  },
+  "house_size": 1050,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef63"
+  },
+  "price": 70500,
+  "address": {
+    "street": "1856955.0",
+    "city": "Yauco",
+    "state": "Puerto Rico",
+    "zip": "00698"
+  },
+  "house_size": 936,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efe0"
+  },
+  "price": 70000,
+  "address": {
+    "street": "113181.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f032"
+  },
+  "price": 70000,
+  "address": {
+    "street": "1877370.0",
+    "city": "Barceloneta",
+    "state": "Puerto Rico",
+    "zip": "00617"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f010"
+  },
+  "price": 70000,
+  "address": {
+    "street": "1855345.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 680,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efd0"
+  },
+  "price": 70000,
+  "address": {
+    "street": "387673.0",
+    "city": "San German",
+    "state": "Puerto Rico",
+    "zip": "00683"
+  },
+  "house_size": 894,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1effd"
+  },
+  "price": 69900,
+  "address": {
+    "street": "1840775.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef8d"
+  },
+  "price": 67500,
+  "address": {
+    "street": "1760196.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef43"
+  },
+  "price": 67000,
+  "address": {
+    "street": "1404990.0",
+    "city": "Juana Diaz",
+    "state": "Puerto Rico",
+    "zip": "00795"
+  },
+  "house_size": 748,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef8c"
+  },
+  "price": 65500,
+  "address": {
+    "street": "16882.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efdd"
+  },
+  "price": 65000,
+  "address": {
+    "street": "49178.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef45"
+  },
+  "price": 65000,
+  "address": {
+    "street": "331151.0",
+    "city": "Mayaguez",
+    "state": "Puerto Rico",
+    "zip": "00680"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efff"
+  },
+  "price": 65000,
+  "address": {
+    "street": "1856972.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 1044,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efb1"
+  },
+  "price": 65000,
+  "address": {
+    "street": "595558.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f046"
+  },
+  "price": 65000,
+  "address": {
+    "street": "397849.0",
+    "city": "Toa Alta",
+    "state": "Puerto Rico",
+    "zip": "00953"
+  },
+  "house_size": 2600,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f030"
+  },
+  "price": 64900,
+  "address": {
+    "street": "1850837.0",
+    "city": "Camuy",
+    "state": "Puerto Rico",
+    "zip": "00627"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f038"
+  },
+  "price": 63800,
+  "address": {
+    "street": "13692.0",
+    "city": "Toa Baja",
+    "state": "Puerto Rico",
+    "zip": "00949"
+  },
+  "house_size": 950,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f059"
+  },
+  "price": 63000,
+  "address": {
+    "street": "1888053.0",
+    "city": "Hormigueros",
+    "state": "Puerto Rico",
+    "zip": "00660"
+  },
+  "house_size": 1233,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef97"
+  },
+  "price": 63000,
+  "address": {
+    "street": "1856967.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": 1184,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f02d"
+  },
+  "price": 62000,
+  "address": {
+    "street": "1902871.0",
+    "city": "Hatillo",
+    "state": "Puerto Rico",
+    "zip": "00659"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efb7"
+  },
+  "price": 60123,
+  "address": {
+    "street": "1838382.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f00e"
+  },
+  "price": 60000,
+  "address": {
+    "street": "1850825.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f007"
+  },
+  "price": 59900,
+  "address": {
+    "street": "1840776.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f037"
+  },
+  "price": 59200,
+  "address": {
+    "street": "594668.0",
+    "city": "Dorado",
+    "state": "Puerto Rico",
+    "zip": "00646"
+  },
+  "house_size": 700,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef7d"
+  },
+  "price": 58000,
+  "address": {
+    "street": "1966337.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efb2"
+  },
+  "price": 56406,
+  "address": {
+    "street": "1667035.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f02c"
+  },
+  "price": 55000,
+  "address": {
+    "street": "1902872.0",
+    "city": "Hatillo",
+    "state": "Puerto Rico",
+    "zip": "00659"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f03d"
+  },
+  "price": 55000,
+  "address": {
+    "street": "1913924.0",
+    "city": "Naranjito",
+    "state": "Puerto Rico",
+    "zip": "00719"
+  },
+  "house_size": 1500,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f03a"
+  },
+  "price": 55000,
+  "address": {
+    "street": "1913914.0",
+    "city": "Dorado",
+    "state": "Puerto Rico",
+    "zip": "00646"
+  },
+  "house_size": 800,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efc1"
+  },
+  "price": 55000,
+  "address": {
+    "street": "1857017.0",
+    "city": "Maricao",
+    "state": "Puerto Rico",
+    "zip": "00606"
+  },
+  "house_size": 2156,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef82"
+  },
+  "price": 50000,
+  "address": {
+    "street": "1946326.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef55"
+  },
+  "price": 50000,
+  "address": {
+    "street": "1902835.0",
+    "city": "Yauco",
+    "state": "Puerto Rico",
+    "zip": "00698"
+  },
+  "house_size": 621,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f004"
+  },
+  "price": 50000,
+  "address": {
+    "street": "1967771.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef47"
+  },
+  "price": 50000,
+  "address": {
+    "street": "1298094.0",
+    "city": "Ciales",
+    "state": "Puerto Rico",
+    "zip": "00639"
+  },
+  "house_size": 2040,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f015"
+  },
+  "price": 49900,
+  "address": {
+    "street": "1840772.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f031"
+  },
+  "price": 49900,
+  "address": {
+    "street": "1861976.0",
+    "city": "Barceloneta",
+    "state": "Puerto Rico",
+    "zip": "00617"
+  },
+  "house_size": 1150,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef7f"
+  },
+  "price": 47000,
+  "address": {
+    "street": "1841588.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efc5"
+  },
+  "price": 46900,
+  "address": {
+    "street": "1757054.0",
+    "city": "Mayaguez",
+    "state": "Puerto Rico",
+    "zip": "00680"
+  },
+  "house_size": 982,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efdc"
+  },
+  "price": 45000,
+  "address": {
+    "street": "1856894.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f039"
+  },
+  "price": 45000,
+  "address": {
+    "street": "1168757.0",
+    "city": "Toa Alta",
+    "state": "Puerto Rico",
+    "zip": "00953"
+  },
+  "house_size": 1000,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efb5"
+  },
+  "price": 44995,
+  "address": {
+    "street": "595223.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efab"
+  },
+  "price": 44720,
+  "address": {
+    "street": "1839304.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f014"
+  },
+  "price": 42900,
+  "address": {
+    "street": "1855937.0",
+    "city": "Camuy",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1eff2"
+  },
+  "price": 39900,
+  "address": {
+    "street": "1862028.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 878,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1eff8"
+  },
+  "price": 39500,
+  "address": {
+    "street": "1946165.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 800,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef84"
+  },
+  "price": 39500,
+  "address": {
+    "street": "1902841.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efb8"
+  },
+  "price": 38279,
+  "address": {
+    "street": "6248.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efb6"
+  },
+  "price": 37779,
+  "address": {
+    "street": "1563956.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efaf"
+  },
+  "price": 37359,
+  "address": {
+    "street": "913730.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efae"
+  },
+  "price": 37000,
+  "address": {
+    "street": "1946165.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1ef7c"
+  },
+  "price": 35000,
+  "address": {
+    "street": "1234597.0",
+    "city": "Aguada",
+    "state": "Puerto Rico",
+    "zip": "00602"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efac"
+  },
+  "price": 35000,
+  "address": {
+    "street": "1946284.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efa1"
+  },
+  "price": 31179,
+  "address": {
+    "street": "1987983.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1eff3"
+  },
+  "price": 29900,
+  "address": {
+    "street": "1862027.0",
+    "city": "Arecibo",
+    "state": "Puerto Rico",
+    "zip": "00612"
+  },
+  "house_size": 878,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1efa4"
+  },
+  "price": 28000,
+  "address": {
+    "street": "1236850.0",
+    "city": "Aguadilla",
+    "state": "Puerto Rico",
+    "zip": "00603"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f044"
+  },
+  "price": 25000,
+  "address": {
+    "street": "12674.0",
+    "city": "Toa Alta",
+    "state": "Puerto Rico",
+    "zip": "00953"
+  },
+  "house_size": null,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f05e"
+  },
+  "price": 25000,
+  "address": {
+    "street": "962678.0",
+    "city": "Cabo Rojo",
+    "state": "Puerto Rico",
+    "zip": "00623"
+  },
+  "house_size": 491,
+  "features": [
+    "garage",
+    "balcony"
+  ]
+}]

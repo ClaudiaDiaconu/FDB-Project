@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f01d"
+  },
+  "price": 210000,
+  "bedrooms": 3,
+  "address": {
+    "street": "913609.0",
+    "city": "Morovis",
+    "state": "Puerto Rico",
+    "zip": "00687"
+  },
+  "house_size": 2500
+},
+{
+  "_id": {
+    "$oid": "67f112aa1cf109f2fdf1f02b"
+  },
+  "price": 365000,
+  "bedrooms": 5,
+  "address": {
+    "street": "1902830.0",
+    "city": "Morovis",
+    "state": "Puerto Rico",
+    "zip": "00687"
+  },
+  "house_size": 2366
+}]

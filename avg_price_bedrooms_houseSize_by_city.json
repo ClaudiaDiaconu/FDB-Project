@@ -1,0 +1,258 @@
+[{
+  "_id": "Vega Baja",
+  "avg_price": 201333.33333333334,
+  "total_bedrooms": 10,
+  "max_house_size": 2038
+},
+{
+  "_id": "Toa Baja",
+  "avg_price": 63800,
+  "total_bedrooms": 3,
+  "max_house_size": 950
+},
+{
+  "_id": "Corozal",
+  "avg_price": 80000,
+  "total_bedrooms": 4,
+  "max_house_size": 1500
+},
+{
+  "_id": "Adjuntas",
+  "avg_price": 92500,
+  "total_bedrooms": 7,
+  "max_house_size": 1527
+},
+{
+  "_id": "Maricao",
+  "avg_price": 93600,
+  "total_bedrooms": 18,
+  "max_house_size": 2156
+},
+{
+  "_id": "Isabela",
+  "avg_price": 1752571.4285714286,
+  "total_bedrooms": 26,
+  "max_house_size": 10000
+},
+{
+  "_id": "Hormigueros",
+  "avg_price": 309800,
+  "total_bedrooms": 16,
+  "max_house_size": 2000
+},
+{
+  "_id": "Guanica",
+  "avg_price": 150000,
+  "total_bedrooms": 5,
+  "max_house_size": 1393
+},
+{
+  "_id": "San Sebastian",
+  "avg_price": 371000,
+  "total_bedrooms": 14,
+  "max_house_size": 4000
+},
+{
+  "_id": "Camuy",
+  "avg_price": 177600,
+  "total_bedrooms": 3,
+  "max_house_size": 2400
+},
+{
+  "_id": "Arecibo",
+  "avg_price": 165485,
+  "total_bedrooms": 129,
+  "max_house_size": 10000
+},
+{
+  "_id": "Juana Diaz",
+  "avg_price": 108500,
+  "total_bedrooms": 5,
+  "max_house_size": 1045
+},
+{
+  "_id": "Villalba",
+  "avg_price": 189000,
+  "total_bedrooms": 6,
+  "max_house_size": 1943
+},
+{
+  "_id": "Barceloneta",
+  "avg_price": 137337.5,
+  "total_bedrooms": 24,
+  "max_house_size": 2961
+},
+{
+  "_id": "Yauco",
+  "avg_price": 172580,
+  "total_bedrooms": 15,
+  "max_house_size": 1118
+},
+{
+  "_id": "Penuelas",
+  "avg_price": 3900000,
+  "total_bedrooms": 6,
+  "max_house_size": 9297
+},
+{
+  "_id": "Hatillo",
+  "avg_price": 244166.66666666666,
+  "total_bedrooms": 11,
+  "max_house_size": 3650
+},
+{
+  "_id": "Toa Alta",
+  "avg_price": 112500,
+  "total_bedrooms": 16,
+  "max_house_size": 2600
+},
+{
+  "_id": "Boqueron",
+  "avg_price": 75000,
+  "total_bedrooms": 0,
+  "max_house_size": null
+},
+{
+  "_id": "Quebradillas",
+  "avg_price": 1398333.3333333333,
+  "total_bedrooms": 10,
+  "max_house_size": 3000
+},
+{
+  "_id": "Manati",
+  "avg_price": 153720,
+  "total_bedrooms": 19,
+  "max_house_size": 2236
+},
+{
+  "_id": "Las Marias",
+  "avg_price": 210000,
+  "total_bedrooms": 9,
+  "max_house_size": 5403
+},
+{
+  "_id": "Dorado",
+  "avg_price": 2165323.076923077,
+  "total_bedrooms": 41,
+  "max_house_size": 7000
+},
+{
+  "_id": "Aguadilla",
+  "avg_price": 256590.76923076922,
+  "total_bedrooms": 78,
+  "max_house_size": 8460
+},
+{
+  "_id": "Lares",
+  "avg_price": 155000,
+  "total_bedrooms": 3,
+  "max_house_size": 4161
+},
+{
+  "_id": "Ciales",
+  "avg_price": 50000,
+  "total_bedrooms": 3,
+  "max_house_size": 2040
+},
+{
+  "_id": "Santa Isabel",
+  "avg_price": 495000,
+  "total_bedrooms": 4,
+  "max_house_size": 2886
+},
+{
+  "_id": "Cabo Rojo",
+  "avg_price": 281266.6666666667,
+  "total_bedrooms": 72,
+  "max_house_size": 4800
+},
+{
+  "_id": "Anasco",
+  "avg_price": 182700,
+  "total_bedrooms": 24,
+  "max_house_size": 2327
+},
+{
+  "_id": "Lajas",
+  "avg_price": 385000,
+  "total_bedrooms": 7,
+  "max_house_size": 6500
+},
+{
+  "_id": "San German",
+  "avg_price": 125000,
+  "total_bedrooms": 6,
+  "max_house_size": 894
+},
+{
+  "_id": "Naranjito",
+  "avg_price": 113500,
+  "total_bedrooms": 8,
+  "max_house_size": 1880
+},
+{
+  "_id": "Coamo",
+  "avg_price": 189000,
+  "total_bedrooms": 3,
+  "max_house_size": 1213
+},
+{
+  "_id": "Rincon",
+  "avg_price": 1165600,
+  "total_bedrooms": 16,
+  "max_house_size": 3852
+},
+{
+  "_id": "Moca",
+  "avg_price": 290000,
+  "total_bedrooms": 9,
+  "max_house_size": 43082
+},
+{
+  "_id": "Guayanilla",
+  "avg_price": 93000,
+  "total_bedrooms": 4,
+  "max_house_size": 1300
+},
+{
+  "_id": "Mayaguez",
+  "avg_price": 158593.33333333334,
+  "total_bedrooms": 53,
+  "max_house_size": 3709
+},
+{
+  "_id": "Utuado",
+  "avg_price": 137000,
+  "total_bedrooms": 8,
+  "max_house_size": 2500
+},
+{
+  "_id": "Aguada",
+  "avg_price": 494620.71428571426,
+  "total_bedrooms": 81,
+  "max_house_size": 6000
+},
+{
+  "_id": "Ponce",
+  "avg_price": 261060,
+  "total_bedrooms": 35,
+  "max_house_size": 3100
+},
+{
+  "_id": "Morovis",
+  "avg_price": 287500,
+  "total_bedrooms": 8,
+  "max_house_size": 2500
+},
+{
+  "_id": "Caguas",
+  "avg_price": 161000,
+  "total_bedrooms": 4,
+  "max_house_size": 1100
+},
+{
+  "_id": "Vega Alta",
+  "avg_price": 463750,
+  "total_bedrooms": 14,
+  "max_house_size": 2100
+}]
